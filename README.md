@@ -1,2 +1,0 @@
-# oasisprojecti
-Wallet Website
